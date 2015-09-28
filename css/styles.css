@@ -1,0 +1,15 @@
+li.banner-bg {
+  background-size: cover;
+}
+
+li.banner-nasa {
+  background: url("../images/cover-image-nasa.jpg") no-repeat center center;
+}
+
+li.banner-travel {
+  background: url("../images/cover-image-1.jpg") no-repeat center center;
+}
+
+li.banner-illustration {
+  background: url("../images/cover-image-2.jpg") no-repeat center center;
+}
