@@ -5,7 +5,10 @@ freelancer.config(function($stateProvider) {
     url: '',
     views: {
       'header': { templateUrl: 'partials/header.html' },
-      'body':   { templateUrl: 'partials/home.html' },
+      'body':   {
+        templateUrl: 'partials/home.html',
+        controller: 'BannerCtrl'
+      },
       'footer': { templateUrl: 'partials/footer.html'}
     }
   });
