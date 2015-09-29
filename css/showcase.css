@@ -58,5 +58,5 @@ section.showcase {
 }*/
 
 .show {
-  display: block;
+  display: inline-block;
 }
