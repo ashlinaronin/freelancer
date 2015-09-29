@@ -1,6 +1,5 @@
 body {
   padding-top: 60px;
-  background-color: black;
   font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 /*======HEADER STUFF==========*/
@@ -78,7 +77,7 @@ body {
 }
 
 #banner-col {
-  height: 550px;
+  height: 600px;
 }
 
 .banner-text {

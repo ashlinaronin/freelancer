@@ -1,0 +1,38 @@
+.project-showcase {
+  background: url("../images/showcase-sprite.jpg");
+  border: 8px solid #fff;
+  width: 270px;
+  height: 205px;
+  overflow: hidden;
+}
+
+.project-showcase.project-showcase-1 {
+  background-position: 0 -1134px;
+}
+
+.project-showcase.project-showcase-2 {
+  background-position: 0 -378px;
+}
+
+.project-showcase.project-showcase-3 {
+  background-position: 0 -945px;
+}
+
+.project-showcase.project-showcase-4 {
+  background-position: 0 -756px;
+}
+
+.project-showcase.project-showcase-5 {
+  background-position: 0 -189px;
+}
+
+.project-showcase.project-showcase-6 {
+  background-position: 0 0;
+}
+
+
+
+section.showcase {
+  padding: 80px 0;
+  background: #E9EFF3;
+}
